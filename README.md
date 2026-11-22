@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B2E,35:536B50,70:A8B99A,100:E8E2D7&height=230&section=header&text=Hello,%20I'm%20a%20Developer&fontSize=38&fontColor=FFF9ED&fontAlignY=38&animation=fadeIn&desc=Growing%20ideas%20into%20intelligent%20solutions%20%E2%98%98&descSize=15&descAlignY=58&descColor=F2EEE3" width="100%"/>
 
-# ✧ YOUR NAME ✧
+# ✧ PRATHIKSHA GAJULA ✧
 
 ### `Full Stack Developer`  ·  `AI/ML Explorer`
 
@@ -10,9 +10,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-344638?style=for-the-badge&logo=github&logoColor=F2EEE3)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-657C68?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-B7A58A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-344638?style=for-the-badge&logo=github&logoColor=F2EEE3)](https://github.com/Prathiksha-2126)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-657C68?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathiksha-gajula-a52880379)
+[![Email](https://img.shields.io/badge/Email-B7A58A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathiksha.chitti@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=657C68&label=CURIOUS+VISITORS" />
 
