@@ -163,7 +163,7 @@ A full-stack web application for sharing and exploring travel listings.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prathiksha-2126&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathiksha-2126&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10)](https://github.com/Prathiksha-2126)
 
 </div>
 
@@ -183,7 +183,7 @@ A full-stack web application for sharing and exploring travel listings.
 
 **Have an exciting idea? Let's create something wonderful together.**
 
-[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-536B50?style=for-the-badge&logo=handshake&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-536B50?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/prathiksha-gajula-a52880379)
 
 <br/>
 
