@@ -14,8 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-657C68?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathiksha-gajula-a52880379)
 [![Email](https://img.shields.io/badge/Email-B7A58A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathiksha.chitti@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=657C68&label=CURIOUS+VISITORS" />
-
 </div>
 
 ---
@@ -23,7 +21,7 @@
 ## ❀ A LITTLE ABOUT ME
 
 ```yaml
-name: "YOUR NAME"
+name: "PRATHIKSHA GAJULA"
 pronouns: "She/Her"
 location: "Goa, India"
 education: "B.E. Computer Engineering"
@@ -104,20 +102,14 @@ A time-series AI anomaly detection solution built during a fast-paced hackathon 
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Ecomap
-
-An environmental intelligence platform featuring Goa AQI, waste zones and eco-friendly travel routes.
-
-`APIs` `Web Development` `Environmental Data`
-
 </td>
 <td width="50%" valign="top">
 
-### 🌾 AI Farmer Assistant
+### 🌍 WanderLust
 
-An intelligent assistant for Goan cashew farmers with disease detection, Konkani voice advisory and localized pest forecasting.
+A full-stack web application for sharing and exploring travel listings.
 
-`Gemini AI` `Vertex AI` `Computer Vision`
+`Node.js` `MongoDB` `Express and EJS`
 
 </td>
 </tr>
