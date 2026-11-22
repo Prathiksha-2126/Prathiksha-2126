@@ -143,17 +143,17 @@ A full-stack web application for sharing and exploring travel listings.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=F2EEE3&title_color=536B50&icon_color=A89575&text_color=4B5148&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prathiksha-2126&show_icons=true&hide_border=true&bg_color=F2EEE3&title_color=536B50&icon_color=A89575&text_color=4B5148&rank_icon=github" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=F2EEE3&title_color=536B50&text_color=4B5148&langs_count=8" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=8FA58A&fire=A89575&currStreakLabel=536B50&sideLabels=657C68&dates=817D72" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathiksha-2126&layout=compact&hide_border=true&bg_color=F2EEE3&title_color=536B50&text_color=4B5148&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=F2EEE3&color=536B50&line=8FA58A&point=A89575&area=true&hide_border=true&custom_title=MY%20CODING%20GROWTH" width="100%"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Prathiksha-2126&theme=transparent&hide_border=true&ring=8FA58A&fire=A89575&currStreakLabel=536B50&sideLabels=657C68&dates=817D72" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathiksha-2126&bg_color=F2EEE3&color=536B50&line=8FA58A&point=A89575&area=true&hide_border=true&custom_title=MY%20CODING%20GROWTH" width="100%"/>
 
 </div>
 
@@ -163,7 +163,7 @@ A full-stack web application for sharing and exploring travel listings.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prathiksha-2126&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%"/>
 
 </div>
 
