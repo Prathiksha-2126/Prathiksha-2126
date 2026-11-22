@@ -162,7 +162,9 @@ A full-stack web application for sharing and exploring travel listings.
 ## ❀ THE LITTLE TROPHY SHELF
 
 <div align="center">
-  <img src="./assets/trophies.svg" width="100%" alt="GitHub Trophies"/>
+
+![GitHub Trophies](./assets/trophies.svg)
+
 </div>
 
 ---
