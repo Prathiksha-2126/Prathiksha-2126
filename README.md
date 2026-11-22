@@ -102,6 +102,12 @@ A time-series AI anomaly detection solution built during a fast-paced hackathon 
 <tr>
 <td width="50%" valign="top">
 
+### ⌛ CHRONIQ
+
+Time-aware intelligence. Evidence-backed answers.
+
+`Python` `Javascript` `API`
+
 </td>
 <td width="50%" valign="top">
 
