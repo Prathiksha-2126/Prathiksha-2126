@@ -163,7 +163,7 @@ A full-stack web application for sharing and exploring travel listings.
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prathiksha-2126&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=10)](https://github.com/Prathiksha-2126)
+<img src="./assets/trophies.svg" width="100%" alt="Prathiksha's GitHub trophies"/>
 
 </div>
 
